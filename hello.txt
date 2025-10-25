@@ -1,4 +1,4 @@
 Hello Git!
 Git is fun!
 This is a new feature branch.
-This line is from MAIN branch.
+This line is from MAIN branch and FEATURE branch.
